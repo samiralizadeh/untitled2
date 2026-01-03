@@ -7,7 +7,7 @@ public class Main {
         AdoptionService a1 = new Shelter();
         AdoptionService a2 = new Adopter();
 
-        a1.adopt(pet1);
+        a1.adopt(pet1)
         a2.adopt(pet2);
     }
 }

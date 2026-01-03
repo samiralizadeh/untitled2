@@ -1,3 +1,3 @@
 public interface AdoptionService {
-    void adopt(Pet pet);
+    void adopt(Pet pet)
 }
